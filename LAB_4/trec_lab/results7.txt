@@ -1,0 +1,32 @@
+k = 1.2 b = 0.75
+map                   	all	0.1806
+k = 1.2 b = 0.0
+map                   	all	0.1713
+k = 1.2 b = 1.0
+map                   	all	0.1642
+k = 1.2 b = 0.75
+map                   	all	0.1806
+k = 1.5 b = 0.75
+map                   	all	0.1743
+k = 1.5 b = 0.0
+map                   	all	0.1699
+k = 1.5 b = 1.0
+map                   	all	0.1592
+k = 1.5 b = 0.75
+map                   	all	0.1743
+k = 1.5 b = 0.75
+map                   	all	0.1743
+k = 1.5 b = 0.0
+map                   	all	0.1699
+k = 1.5 b = 1.0
+map                   	all	0.1592
+k = 1.5 b = 0.75
+map                   	all	0.1743
+k = 2.0 b = 0.75
+map                   	all	0.1677
+k = 2.0 b = 0.0
+map                   	all	0.1640
+k = 2.0 b = 1.0
+map                   	all	0.1504
+k = 2.0 b = 0.75
+map                   	all	0.1677

@@ -1,0 +1,20 @@
+econom: 20, 5.4726553 prof:11, 266.74496 fogel:7, 20313.654 histori:7, 20.76734 institut:6, 10.178162
+
+murder:7, 50.710995 life:3, 10.455823 abort:2, 159.80484 anim:2, 58.295254 demand:2, 9.4546385 
+
+india:28, 68.08753 world:22, 5.1912227 arvind:12, 19561.297 gandhi:12, 1400.9417 power:12, 7.7429595
+
+slaveri:10, 1475.2933 societi:9, 21.18977 children:8, 22.305727 carpet:6, 256.63507 labor:6, 32.380295
+
+iv:6, 53.86039 labor:4, 32.380295 slaveri:4, 1475.2933 suit:4, 28.644918 busi:3, 4.834238 
+
+movement:22, 21.23407 india:18, 68.08753 indian:17, 55.327362 independ:14, 13.451723 nation:14, 3.5148706
+
+
+footbal:4, 62.69646 player:4, 28.308678 slaveri:3, 1475.2933 anti:2, 27.585657 asset:2, 19.675707
+
+
+
+
+
+murder, slaveri, children, histori, labor, india, world
